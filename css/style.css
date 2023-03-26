@@ -1,11 +1,23 @@
- 
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../img/header.jpg');
+    background-position: bottom;
+    background-size: cover;
+ }
   body{
     height: 100%;
   }
   
   .hero-section{
     align-items: flex-start;
-    background-image: linear-gradient(15deg, #0f4667 0%, #2a6973 150%);
+    background-image: linear-gradient(15deg, #fff 0%, #2a6973 150%);
     display: flex;
     min-height: 100%;
     justify-content: center;
