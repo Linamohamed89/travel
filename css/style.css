@@ -37,6 +37,8 @@
     list-style: none;
     position: relative;
     margin: 75px 10px;
+    width: 333px;
+    height: 388px;
   }
   
   .card:before{
