@@ -93,7 +93,7 @@ ul {
   
   .hero-section{
     align-items: flex-start;
-    background-image: linear-gradient(15deg, #fff 0%, #2a6973 150%);
+    background-image: linear-gradient(15deg, #fff );
     display: flex;
     min-height: 100%;
     justify-content: center;
@@ -200,7 +200,7 @@ ul {
         background: #484872;
         margin-top: -900px;
     }
-.menu-btn{
+.mobile-menu{
     margin-top: 0px;
 }
 .nav-links li {
