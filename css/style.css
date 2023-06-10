@@ -213,3 +213,15 @@ ul {
 font-size: 54px;
 font-weight: bolder;
 }
+
+
+.tourist {
+  border-radius: 50%;
+  width: 165px;
+}
+
+.tourist-land {
+font-size: 18px;
+font-weight: bold;
+color: black;
+}
