@@ -217,8 +217,11 @@ font-weight: bolder;
 
 .tourist {
   border-radius: 50%;
-  width: 165px;
+  width: 135px;
+  margin-bottom: 9px;
+  margin-top: 45px;
 }
+
 
 .tourist-land {
 font-size: 18px;
